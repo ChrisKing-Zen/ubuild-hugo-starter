@@ -5,7 +5,7 @@ layout = "blocks"
 title = "Test"
 [[page_sections]]
 block = "header-2"
-logo = ""
+logo = "/uploads/2018/06/21/forestry-symbol.svg"
 navigation = []
 template = "navigation-header-w-button"
 [page_sections.cta]
